@@ -46,5 +46,5 @@ Construo guardrails, least privilege e policy-as-code para que times se movam r�
 
 ## Onde me encontrar
 
-- LinkedIn: [‹linkedin.com/in/... — preencher›](https://www.linkedin.com/in/yuri-braz/)
+- LinkedIn: [yuri-braz](https://www.linkedin.com/in/yuri-braz/)
 - E-mail: ybraz@proton.me
