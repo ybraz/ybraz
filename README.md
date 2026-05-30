@@ -44,11 +44,6 @@ Construo guardrails, least privilege e policy-as-code para que times se movam r�
 - Scopes Não São Least Privilege
 - Em Nome de Quem o Seu Agente Age (delegação / on-behalf-of)
 
-## Estatísticas do GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ybraz&show_icons=true)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ybraz&layout=compact)
-
 ## Onde me encontrar
 
 - LinkedIn: [‹linkedin.com/in/... — preencher›](https://www.linkedin.com/in/yuri-braz/)
